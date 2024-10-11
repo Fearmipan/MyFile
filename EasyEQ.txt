@@ -1,0 +1,16 @@
+Preamp: 0.0 dB
+
+# Bass
+Filter 1: ON LSC Fc 125 Hz Gain 0.0 dB Q 0.700
+
+# Energy
+Filter 2: ON PK Fc 910 Hz Gain 0.0 dB Q 0.500
+
+# Vocal
+Filter 3: ON PK Fc 2700 Hz Gain 0.0 dB Q 2.000
+
+# Coloration
+Filter 4: ON PK Fc 5100 Hz Gain 0.0 dB Q 1.000
+
+# Airy
+Filter 5: ON HSC Fc 8900 Hz Gain 0.0 dB Q 0.7
